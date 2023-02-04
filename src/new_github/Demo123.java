@@ -6,6 +6,8 @@ public class Demo123 {
 	{ 
 		
 		System.out.println("branch1");
+		
+		System.out.println("this is branch2");
 
 
 	}
